@@ -16,12 +16,6 @@
 
 ---
 
-## 📸 スクリーンショット
-
-![CellMemo Screenshot](assets/screenshot.png)
-
----
-
 ## ✨ 主な特徴
 
 - 🚀 **超高速・軽量起動**: 
