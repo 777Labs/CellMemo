@@ -1,0 +1,35 @@
+## Visual Studio / .NET
+[Bb]in/
+[Oo]bj/
+publish/
+dist-repo/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# CellMemo local data / logs
+settings.json
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
